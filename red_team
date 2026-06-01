@@ -1,1 +1,11 @@
+🔴 Red Team Tools
 
+Red Team operations rely on a set of powerful tools used to simulate real-world attacks and identify security weaknesses.
+
+Nmap: Used for network scanning and discovering open ports and services on target systems. It helps in the reconnaissance phase.
+Metasploit Framework: A penetration testing tool used to exploit vulnerabilities and test system security in a controlled environment.
+Burp Suite: Used for web application testing, especially to analyze and manipulate HTTP requests and find security flaws.
+Hydra: A password-cracking tool used to perform brute-force attacks on login systems.
+Wireshark: A network protocol analyzer used to capture and analyze network traffic for suspicious activity.
+
+These tools help security professionals understand attack techniques and improve system defenses by thinking like real attackers.
