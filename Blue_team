@@ -1,0 +1,11 @@
+🔵 Blue Team Tools
+
+Blue Team focuses on defending systems, detecting attacks, and responding to security incidents. It uses various tools to monitor networks, analyze threats, and strengthen security.
+
+Wireshark: Used for analyzing network traffic to detect suspicious or malicious activity in real time.
+Splunk: A powerful SIEM tool used to collect, search, and analyze log data from different systems for threat detection.
+Suricata: An intrusion detection and prevention system (IDS/IPS) used to monitor network traffic and detect attacks.
+ELK Stack (Elasticsearch, Logstash, Kibana): Used for log management, data analysis, and creating visual dashboards for security monitoring.
+OSSEC: A host-based intrusion detection system (HIDS) used to monitor system logs, file integrity, and detect unauthorized changes.
+
+These tools help security teams detect attacks early, respond to incidents, and protect systems from ongoing threats.
