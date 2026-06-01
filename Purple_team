@@ -1,0 +1,11 @@
+🟣 Purple Team
+
+Purple Team combines both Red Team (offense) and Blue Team (defense) to improve overall cybersecurity. Its goal is to enhance collaboration between attackers and defenders to strengthen detection and response capabilities.
+
+SIEM Platforms (Splunk / ELK Stack): Used to analyze attack simulations from the Red Team and improve detection rules for the Blue Team.
+Wireshark: Helps both teams understand network behavior during simulated attacks and improve detection accuracy.
+MITRE ATT&CK Framework: Used to map attack techniques and improve both offensive testing and defensive detection strategies.
+Burp Suite: Used in controlled environments to simulate web attacks while Blue Team analyzes logs and builds better defenses.
+Caldera / Atomic Red Team: Automation tools used to simulate real attacks and test defensive systems in real time.
+
+Purple Teaming bridges the gap between attackers and defenders, making security testing more effective by ensuring both sides work together to improve system protection.
